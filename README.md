@@ -12,3 +12,6 @@ According to our results, we can conclude:
   - B:  The slope of our linear model is not zero.  This is shown in the estimate column for each varible.  
   - C:  The r-squared value, shows that 71.4% of the variation in mpg can be explained by the prototype specifications reveiwed.  Meaning this is a fairly effective model to predict mpg of MechaCar prototypes.
 
+## Summary Statistics on Suspension Coils
+![summary_dev 2](https://user-images.githubusercontent.com/90974647/148853099-9e00b78d-ec3c-48f5-aebf-8837b58e35d0.PNG)
+![lost-summary_dev 2](https://user-images.githubusercontent.com/90974647/148853105-08e864fc-ae8b-4b5d-bddd-ea490abf6945.PNG)
