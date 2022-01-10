@@ -12,12 +12,3 @@ According to our results, we can conclude:
   - B:  The slope of our linear model is not zero.  This is shown in the estimate column for each varible.  
   - C:  The r-squared value, shows that 71.4% of the variation in mpg can be explained by the prototype specifications reveiwed.  Meaning this is a fairly effective model to predict mpg of MechaCar prototypes.
 
-## Summary Statistics on Suspension Coils
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-Deliverable 2 Requirements
-You will earn a perfect score for Deliverable 2 by completing all requirements below:
-
-The Suspension_Coil.csv file is imported and read into a dataframe (5 pt)
-An RScript is written to create a total summary dataframe that has the mean, median, variance, and standard deviation of the PSI for all manufacturing lots (10 pt)
-An RScript is written to create a lot summary dataframe that has the mean, median, variance, and standard deviation for each manufacturing lot (10 pt)
-There is a summary that addresses the design specification requirement for all the manufacturing lots and each lot individually (5 pt)
